@@ -1,0 +1,9 @@
+Arduino Mega#2560@
+oi ola#666@
+BlueNRG#1@
+ESP x#32@
+Teste de tamanho de string#224@
+a b#12@
+teste espaco#32@
+AGTechnologies#2@
+teste string#32@
