@@ -14,6 +14,7 @@ Main Concepts:
 
 
 --------------------------------------
+# Leitura de Arquivo
 
 [C] Um código que lê informações de um arquivo e separa essas informações em palavras (strings) e números (int)
 
