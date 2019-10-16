@@ -16,7 +16,7 @@ Main Concepts:
 --------------------------------------
 # Leitura de Arquivo
 
-[C] Um código que lê informações de um arquivo e separa essas informações em palavras (strings) e números (int)
+[C] Código para ler informações de um arquivo e separar essas informações em palavras (strings) e números (int)
 
 
 Esse código lê dados de um arquivo específico e então separa essas informações em palavras (strings) e números (int). Esses dados consistem em uma sequência de caracteres, um delimitador, uma sequência de números e um delimitador final. O programa identifica o primeiro delimitador e toda informação que vier antes dele é salva numa variável do tipo "string". Após isso, o código identifica o segundo delimitador e toda informação entre o primeiro e o segundo delimitador é definida como uma sequência de números, mas salva em uma variável do tipo "string". Finalmente, ele converte essa sequência de números (string) em um inteiro (int) propriamente dito.
